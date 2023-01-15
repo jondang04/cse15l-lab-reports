@@ -15,9 +15,11 @@ The link below redirect you to find your CSE15L account and from there, reset yo
 - Click the link [here](https://sdacs.ucsd.edu/~icc/index.php)
 
 Follow these steps if you need any help in resetting your password
-  1. Once you've opened the link, go to the area where it says account lookup and enter in your student ID and your username that comes from your UCSD email
-    * From this you'll obtain your account username, everyone will have the same first nine characters but the last three are the most inportant as they are specific to you.
-  3. 
+  1. Once you've opened the link, go to the area where it says account lookup and enter in your student ID and your UCSD username and click submit, after this step you'll obtain your account ID for this class. (it should be similar to cs15lwi23abc)
+  2. Click on that account ID and it will direct to another page where near the top of the page, there will be a hyperlink to change your password.
+  3. Enter in your current password and your new password where it tells you to. If don't you want this password to also be changed for your tritonlink password, make sure you change the __"Change my Tritonlink Password"__ to no.
+  4.  Don't click check password, instead go back to the password confirmation box and click on it, then press enter.
+  5.  It could take up to 15 minutes for the password reset to go through the system so be patient, but if it doesn't take that long then go ahead and move onto the next step.
 
 ## 3. VS Code
 Download [VS Code](https://code.visualstudio.com/) for your respective operating system and install it properly according to the instructions. 
