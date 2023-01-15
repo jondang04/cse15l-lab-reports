@@ -13,7 +13,7 @@ Download [VS Code](https://code.visualstudio.com/) for your respective operating
 ## 4. Remote Connection
 
 ## 5. Run Some Commands
-Once you're able to log into the system, try running some of the commands that have been used in class from using both the remote computer and your own personal computer. Report what you see and if there are any differences between any outputs of the operating systems
+Once you're able to log into the system, try running some of the commands that have been used in class from using both the remote computer and your own personal computer. Report what you see and if there are any differences between any outputs of the operating systems.
 
 Some commands you can try are:
 * cd ~
@@ -29,5 +29,7 @@ Once Finished with this step you can exit the terminal doing the following steps
 * Type in the command prompt __exit__
 
 ## 6. Settng up Github
+Github is a website that allows code to be stored and retrieved. Having a github page can be very useful as it could serve as a place to store projects that could put on a resume/CV.
+
 
 ## 7. Create a Website using Github
