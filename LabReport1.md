@@ -1,13 +1,12 @@
 # CSE 15L WI 23 Lab Report 1
 ## 1. Your CSE15L Account
 The link below redirect you to find your CSE15L account and from there, reset your password according to the instructions given.
-[here]https://sdacs.ucsd.edu/~icc/index.php
+[here](https://sdacs.ucsd.edu/~icc/index.php)
 
 ## 2.
 
 ## 3. VS Code
-Download [VS Code]https://code.visualstudio.com/ for your respective operating system and install it properly according to the instructions. 
-- Once completed, open it up and it should look a little something like this, I already have it downloaded since I have used it for another class so don't worry about the files that I have there, but it should still look similar with maybe some different colors
+Download [VS Code](https://code.visualstudio.com/) for your respective operating system and install it properly according to the instructions. Once completed, open it up and it should look a little something like this, I already have it downloaded since I have used it for another class so don't worry about the files that I have there, but it should still look similar with maybe some different colors
 
 
 ## 4. Remote Connection
