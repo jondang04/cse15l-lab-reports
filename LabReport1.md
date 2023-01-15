@@ -12,7 +12,7 @@ Download [VS Code]https://code.visualstudio.com/ for your respective operating s
 
 Once Finished with this step you can exit the terminal doing the following steps:
 * Press Crtl + D
-* Type in the command prompt > exit
+* Type in the command prompt __exit__
 
 ## 6. Settng up Github
 
