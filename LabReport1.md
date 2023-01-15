@@ -1,9 +1,18 @@
 # CSE 15L WI 23 Lab Report 1
-## 1. Your CSE15L Account
+## 1. Meet your group
+Groups will be divided into 6-8 people and will be overseen by a discussion leader. This will be dependent on your seat and for this week's lab, you are free to choose your seat along with your group. Once these groups are formed, open the google doc corresponding to your group number, make sure that it's the right time period along with the right location.
+
+Discuss and write down the answers to the questions below in the google doc
+  - What is your name (you can include anything else anyone might want to know like pronouns or a nickname)?
+  - What is your major?
+  - Pick one of these three to answer for the next one:
+    - What is a UCSD club or organization that you're in or interested in?
+    - What is your favorite spot on campus so far?
+    - What is a little shortcut or trick that you know about UCSD?
+
+## 2. Your CSE15L Account
 The link below redirect you to find your CSE15L account and from there, reset your password according to the instructions given.
 - Click the link [here](https://sdacs.ucsd.edu/~icc/index.php)
-
-## 2.
 
 ## 3. VS Code
 Download [VS Code](https://code.visualstudio.com/) for your respective operating system and install it properly according to the instructions. 
