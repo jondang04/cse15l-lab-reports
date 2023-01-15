@@ -16,7 +16,7 @@ The link below redirect you to find your CSE15L account and from there, reset yo
 
 Follow these steps if you need any help in resetting your password
   1. Once you've opened the link, go to the area where it says account lookup and enter in your student ID and your username that comes from your UCSD email
-    - From this you'll obtain your account username, everyone will have the same first nine characters but the last three are the most inportant as they are specific to you.
+    * From this you'll obtain your account username, everyone will have the same first nine characters but the last three are the most inportant as they are specific to you.
   3. 
 
 ## 3. VS Code
