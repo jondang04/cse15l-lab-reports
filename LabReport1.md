@@ -9,10 +9,20 @@ Download [VS Code]https://code.visualstudio.com/ for your respective operating s
 ## 4. Remote Connection
 
 ## 5. Run Some Commands
+Once you're able to log into the system, trying running some of the commands from down below using the remote computer and your own personal computer
+
+Some commands you can try are:
+* cd ~
+* cd
+* ls -lat
+* ls -a
+* ls/home/linux/ieng6/cs15lwi23/cs15lwi23xyz where xyz will be replaced with a repspective 15L account id
+* cp /home/linux/ieng6/cs15lwi23/public/hello.txt ~/
+* cat /home/linux/ieng6/cs15lwi23/public/hello.txt
 
 Once Finished with this step you can exit the terminal doing the following steps:
 * Press __Crtl + D__
-* Type in the command prompt ## exit
+* Type in the command prompt __exit__
 
 ## 6. Settng up Github
 
