@@ -9,7 +9,7 @@ Download [VS Code]https://code.visualstudio.com/ for your respective operating s
 ## 4. Remote Connection
 
 ## 5. Run Some Commands
-Once you're able to log into the system, trying running some of the commands from down below using the remote computer and your own personal computer
+Once you're able to log into the system, try running some of the commands that have been used in class from using both the remote computer and your own personal computer. Report what you see and if there are any differences between any outputs of the operating systems
 
 Some commands you can try are:
 * cd ~
