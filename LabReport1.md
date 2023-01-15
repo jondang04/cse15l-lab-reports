@@ -4,7 +4,7 @@ The link below redirect you to find your CSE15L account and from there, reset yo
 [here]https://sdacs.ucsd.edu/~icc/index.php
 
 ## 3. VS Code
-Download [VS Code]https://code.visualstudio.com/ for your respective operating system.
+Download [VS Code]https://code.visualstudio.com/ for your respective operating system and install it properly according to the instructions.
 
 ## 4. Remote Connection
 
