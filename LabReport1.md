@@ -2,7 +2,7 @@
 ## 1. Meet your group
 Groups will be divided into 6-8 people and will be overseen by a discussion leader. This will be dependent on your seat and for this week's lab, you are free to choose your seat along with your group. Once these groups are formed, open the google doc corresponding to your group number, make sure that it's the right time period along with the right location.
 
-Discuss and write down the answers to the questions below in the google doc
+Discuss and write down the answers to the questions below in the google doc.
   - What is your name (you can include anything else anyone might want to know like pronouns or a nickname)?
   - What is your major?
   - Pick one of these three to answer for the next one:
@@ -13,6 +13,11 @@ Discuss and write down the answers to the questions below in the google doc
 ## 2. Your CSE15L Account
 The link below redirect you to find your CSE15L account and from there, reset your password according to the instructions given.
 - Click the link [here](https://sdacs.ucsd.edu/~icc/index.php)
+
+Follow these steps if you need any help in resetting your password
+  1. Once you've opened the link, go to the area where it says account lookup and enter in your student ID and your username that comes from your UCSD email
+    - From this you'll obtain your account username, everyone will have the same first nine characters but the last three are the most inportant as they are specific to you.
+  3. 
 
 ## 3. VS Code
 Download [VS Code](https://code.visualstudio.com/) for your respective operating system and install it properly according to the instructions. 
@@ -29,7 +34,7 @@ Some commands you can try are:
 * cd
 * ls -lat
 * ls -a
-* ls/home/linux/ieng6/cs15lwi23/cs15lwi23xyz where xyz will be replaced with a repspective 15L account id
+* ls/home/linux/ieng6/cs15lwi23/cs15lwi23xyz where xyz will be replaced with a repspective 15L account ID
 * cp /home/linux/ieng6/cs15lwi23/public/hello.txt ~/
 * cat /home/linux/ieng6/cs15lwi23/public/hello.txt
 
