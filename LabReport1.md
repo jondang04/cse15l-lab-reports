@@ -65,6 +65,10 @@ Some commands you can try are:
 * cp /home/linux/ieng6/cs15lwi23/public/hello.txt ~/
 * cat /home/linux/ieng6/cs15lwi23/public/hello.txt
 
+An example of this will look like this
+
+![Imgur](https://i.imgur.com/m3LEfrs.png)
+
 Once Finished with this step you can exit the terminal doing the following steps:
 * Press __Crtl + D__
 * Type in the command prompt __exit__
