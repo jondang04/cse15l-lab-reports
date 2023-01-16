@@ -35,8 +35,7 @@ If you're on windows, you'll have to do some of the next steps, but if it's not 
 2. Once installed, open installed, open the terminal as __git bash__ in Visual Studio Code
 
 If you're on Mac, just make sure that your terminal is set to bash
-![Imgur](https://i.imgur.com/a/IqVjOya)
-
+![Imgur](https://i.imgur.com/jdwjKiv.png)
 
 Once accomplished, type in the command below switching out the "abc" for your account letters
 - $ ssh cs15lwi23abc@ieng6.ucsd.edu
