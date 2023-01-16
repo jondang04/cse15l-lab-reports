@@ -26,6 +26,7 @@ Follow these steps if you need any help in resetting your password
 ## 3. VS Code
 Download [VS Code](https://code.visualstudio.com/) for your respective operating system and install it properly according to the instructions. 
 - Once completed, open it up and it should look a little something like this, I already have it downloaded since I have used it for another class so don't worry about the files that I have there, but it should still look similar with maybe some different colors
+[Imgur](https://i.imgur.com/NWrOE8p.png)
 
 
 ## 4. Remote Connection
