@@ -32,9 +32,11 @@ Download [VS Code](https://code.visualstudio.com/) for your respective operating
 ## 4. Remote Connection
 If you're on windows, you'll have to do some of the next steps, but if it's not your operating system then you can just skip the next two steps.
 1. Install [Git](https://gitforwindows.org/)
-2. Once installed, open installed, open the terminal as __git bash__ in Vsual Studio Code
+2. Once installed, open installed, open the terminal as __git bash__ in Visual Studio Code
 
-If you're on Mac or another operating system, just make sure that your terminal is set to bash
+If you're on Mac, just make sure that your terminal is set to bash
+![Imgur](https://imgur.com/a/IqVjOya)
+
 
 Once accomplished, type in the command below switching out the "abc" for your account letters
 - $ ssh cs15lwi23abc@ieng6.ucsd.edu
