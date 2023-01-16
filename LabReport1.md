@@ -26,6 +26,7 @@ Follow these steps if you need any help in resetting your password
 ## 3. VS Code
 Download [VS Code](https://code.visualstudio.com/) for your respective operating system and install it properly according to the instructions. 
 - Once completed, open it up and it should look a little something like this, I already have it downloaded since I have used it for another class so don't worry about the files that I have there, but it should still look similar with maybe some different colors
+
 ![Imgur](https://i.imgur.com/NWrOE8p.png)
 
 
@@ -35,6 +36,7 @@ If you're on windows, you'll have to do some of the next steps, but if it's not 
 2. Once installed, open installed, open the terminal as __git bash__ in Visual Studio Code
 
 If you're on Mac, just make sure that your terminal is set to bash
+
 ![Imgur](https://i.imgur.com/jdwjKiv.png)
 
 Once accomplished, type in the command below switching out the "abc" for your account letters
@@ -48,6 +50,7 @@ If it is your first time connecting to the server you'll probably get this messa
  Are you sure you want to continue connecting (yes/no/[fingerprint])? 
 
 Type in yes and then you'll be prompted to type in your password, you're password won't be appearing that it is begin typed in, but is. Once you're connected you should see something similar to the picture below
+
 ![Imgur](https://i.imgur.com/KzJTZNn.png)
 
 ## 5. Run Some Commands
