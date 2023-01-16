@@ -20,7 +20,8 @@ Follow these steps if you need any help in resetting your password
   3. Enter in your current password and your new password where it tells you to. If don't you want this password to also be changed for your tritonlink password, make sure you change the __"Change my Tritonlink Password"__ to no.
   4.  Don't click check password, instead go back to the password confirmation box and click on it, then press enter.
   5.  It could take up to 15 minutes for the password reset to go through the system so be patient, but if it doesn't take that long then go ahead and move onto the next step.
-  6.  Try to type in the command __$ ssh ACCOUNT_NAME@ieng6.ucsd.edu__ and then enter in your password, as you type it in nothing will show up, but that's perfectly normal. (the "$" should not be in the command, it is jsut there to be recognized that it is a command, remember this for the next step)
+  6.  Try to type in the command below and then enter in your password, as you type it in nothing will show up, but that's perfectly normal. (the "$" should not be in the command, it is jsut there to be recognized that it is a command, remember this for the next step)
+- __$ ssh ACCOUNT_NAME@ieng6.ucsd.edu__
 
 ## 3. VS Code
 Download [VS Code](https://code.visualstudio.com/) for your respective operating system and install it properly according to the instructions. 
@@ -28,6 +29,7 @@ Download [VS Code](https://code.visualstudio.com/) for your respective operating
 
 
 ## 4. Remote Connection
+
 
 ## 5. Run Some Commands
 Once you're able to log into the system, try running some of the commands that have been used in class from using both the remote computer and your own personal computer. Report what you see and if there are any differences between any outputs of the operating systems.
