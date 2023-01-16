@@ -42,13 +42,13 @@ Once accomplished, type in the command below switching out the "abc" for your ac
 
 If it is your first time connecting to the server you'll probably get this message
 
-- ⤇ ssh cs15lwi23zz@ieng6.ucsd.edu
+- ⤇ ssh cs15lwi23abc@ieng6.ucsd.edu
  The authenticity of host 'ieng6.ucsd.edu (128.54.70.227)' can't be established.
  RSA key fingerprint is SHA256:ksruYwhnYH+sySHnHAtLUHngrPEyZTDl/1x99wUQcec.
  Are you sure you want to continue connecting (yes/no/[fingerprint])? 
 
 Type in yes and then you'll be prompted to type in your password, you're password won't be appearing that it is begin typed in, but is. Once you're connected you should see something similar to the picture below
-
+![Imgur](https://i.imgur.com/KzJTZNn.png)
 
 ## 5. Run Some Commands
 Once you're able to log into the system, try running some of the commands that have been used in class from using both the remote computer and your own personal computer. Report what you see and if there are any differences between any outputs of the operating systems.
