@@ -29,6 +29,23 @@ Download [VS Code](https://code.visualstudio.com/) for your respective operating
 
 
 ## 4. Remote Connection
+If you're on windows, you'll have to do some of the next steps, but if it's not your operating system then you can just skip the next two steps.
+1. Install [Git](https://gitforwindows.org/)
+2. Once installed, open installed, open the terminal as __git bash__ in Vsual Studio Code
+
+If you're on Mac or another operating system, just make sure that your terminal is set to bash
+
+Once accomplished, type in the command below switching out the "abc" for your account letters
+- $ ssh cs15lwi23abc@ieng6.ucsd.edu
+
+If it is your first time connecting to the server you'll probably get this message
+
+- ⤇ ssh cs15lwi23zz@ieng6.ucsd.edu
+The authenticity of host 'ieng6.ucsd.edu (128.54.70.227)' can't be established.
+RSA key fingerprint is SHA256:ksruYwhnYH+sySHnHAtLUHngrPEyZTDl/1x99wUQcec.
+Are you sure you want to continue connecting (yes/no/[fingerprint])? 
+
+Type in yes and then you'll be prompted to type in your password, you're password won't be appearing that it is begin typed in, but is. Once you're connected you should see something similar to the picture below
 
 
 ## 5. Run Some Commands
