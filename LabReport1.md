@@ -4,7 +4,7 @@ The link below redirect you to find your CSE15L account and from there, reset yo
 - Click the link [here](https://sdacs.ucsd.edu/~icc/index.php)
 
 Follow these steps if you need any help in resetting your password.
-  1. Once you've opened the link, go to the area where it says account lookup and enter in your student ID and your UCSD username and click submit, after this step you'll obtain your account ID for this class. (it should be similar to cs15lwi23abc)
+  1. Once you've opened the link, go to the area where it says account lookup and enter in your student ID and your UCSD username and click submit, after this step you'll obtain your account ID for this class. (it should be similar to cs15lwi23xyz)
   2. Click on that account ID and it will direct to another page where near the top of the page, there will be a hyperlink to change your password.
   3. Enter in your current password and your new password where it tells you to. If don't you want this password to also be changed for your tritonlink password, make sure you change the __"Change my Tritonlink Password"__ to no.
   4.  Don't click check password, instead go back to the password confirmation box and click on it, then press enter.
@@ -28,13 +28,13 @@ If you're on Mac, just make sure that your terminal is set to bash
 
 ![Imgur](https://i.imgur.com/jdwjKiv.png)
 
-Once accomplished, type in the command below switching out the "abc" for your account letters
-- `$ ssh cs15lwi23abc@ieng6.ucsd.edu`
+Once accomplished, type in the command below switching out the "xyz" for your account letters
+- `$ ssh cs15lwi23xyz@ieng6.ucsd.edu`
 
 If it is your first time connecting to the server you'll probably get this message
 
 ```
-⤇ ssh cs15lwi23abc@ieng6.ucsd.edu
+⤇ ssh cs15lwi23xyz@ieng6.ucsd.edu
  The authenticity of host 'ieng6.ucsd.edu (128.54.70.227)' can't be established.
  RSA key fingerprint is SHA256:ksruYwhnYH+sySHnHAtLUHngrPEyZTDl/1x99wUQcec.
  Are you sure you want to continue connecting (yes/no/[fingerprint])?
