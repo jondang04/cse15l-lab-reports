@@ -21,7 +21,7 @@ Follow these steps if you need any help in resetting your password.
   4.  Don't click check password, instead go back to the password confirmation box and click on it, then press enter.
   5.  It could take up to 15 minutes for the password reset to go through the system so be patient, but if it doesn't take that long then go ahead and move onto the next step.
   6.  Try to type in the command below and then enter in your password, as you type it in nothing will show up, but that's perfectly normal. (the "$" should not be in the command, it is jsut there to be recognized that it is a command, remember this for the next step)
-- ` __$ ssh ACCOUNT_NAME@ieng6.ucsd.edu__`
+- `$ ssh ACCOUNT_NAME@ieng6.ucsd.edu`
 
 ## 3. VS Code
 Download [VS Code](https://code.visualstudio.com/) for your respective operating system and install it properly according to the instructions. 
@@ -40,14 +40,14 @@ If you're on Mac, just make sure that your terminal is set to bash
 ![Imgur](https://i.imgur.com/jdwjKiv.png)
 
 Once accomplished, type in the command below switching out the "abc" for your account letters
--` $ ssh cs15lwi23abc@ieng6.ucsd.edu`
+-`$ ssh cs15lwi23abc@ieng6.ucsd.edu`
 
 If it is your first time connecting to the server you'll probably get this message
 
-- ⤇ ssh cs15lwi23abc@ieng6.ucsd.edu
+-`⤇ ssh cs15lwi23abc@ieng6.ucsd.edu
  The authenticity of host 'ieng6.ucsd.edu (128.54.70.227)' can't be established.
  RSA key fingerprint is SHA256:ksruYwhnYH+sySHnHAtLUHngrPEyZTDl/1x99wUQcec.
- Are you sure you want to continue connecting (yes/no/[fingerprint])? 
+ Are you sure you want to continue connecting (yes/no/[fingerprint])?`
 
 Type in yes and then you'll be prompted to type in your password, you're password won't be appearing that it is begin typed in, but is. Once you're connected you should see something similar to the picture below
 
