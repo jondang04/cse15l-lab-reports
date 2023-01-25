@@ -14,14 +14,14 @@ Discuss and write down the answers to the questions below in the google doc.
 The link below redirect you to find your CSE15L account and from there, reset your password according to the instructions given.
 - Click the link [here](https://sdacs.ucsd.edu/~icc/index.php)
 
-Follow these steps if you need any help in resetting your password
+Follow these steps if you need any help in resetting your password.
   1. Once you've opened the link, go to the area where it says account lookup and enter in your student ID and your UCSD username and click submit, after this step you'll obtain your account ID for this class. (it should be similar to cs15lwi23abc)
   2. Click on that account ID and it will direct to another page where near the top of the page, there will be a hyperlink to change your password.
   3. Enter in your current password and your new password where it tells you to. If don't you want this password to also be changed for your tritonlink password, make sure you change the __"Change my Tritonlink Password"__ to no.
   4.  Don't click check password, instead go back to the password confirmation box and click on it, then press enter.
   5.  It could take up to 15 minutes for the password reset to go through the system so be patient, but if it doesn't take that long then go ahead and move onto the next step.
   6.  Try to type in the command below and then enter in your password, as you type it in nothing will show up, but that's perfectly normal. (the "$" should not be in the command, it is jsut there to be recognized that it is a command, remember this for the next step)
-- __$ ssh ACCOUNT_NAME@ieng6.ucsd.edu__
+> - __$ ssh ACCOUNT_NAME@ieng6.ucsd.edu__
 
 ## 3. VS Code
 Download [VS Code](https://code.visualstudio.com/) for your respective operating system and install it properly according to the instructions. 
