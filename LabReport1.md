@@ -44,10 +44,10 @@ Once accomplished, type in the command below switching out the "abc" for your ac
 
 If it is your first time connecting to the server you'll probably get this message
 
-> `⤇ ssh cs15lwi23abc@ieng6.ucsd.edu <br>
- The authenticity of host 'ieng6.ucsd.edu (128.54.70.227)' can't be established. <br>
- RSA key fingerprint is SHA256:ksruYwhnYH+sySHnHAtLUHngrPEyZTDl/1x99wUQcec. <br>
- Are you sure you want to continue connecting (yes/no/[fingerprint])?`
+`⤇ ssh cs15lwi23abc@ieng6.ucsd.edu <br>
+The authenticity of host 'ieng6.ucsd.edu (128.54.70.227)' can't be established. <br>
+RSA key fingerprint is SHA256:ksruYwhnYH+sySHnHAtLUHngrPEyZTDl/1x99wUQcec. <br>
+Are you sure you want to continue connecting (yes/no/[fingerprint])?`
 
 Type in yes and then you'll be prompted to type in your password, you're password won't be appearing that it is begin typed in, but is. Once you're connected you should see something similar to the picture below
 
