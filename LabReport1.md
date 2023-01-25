@@ -40,7 +40,7 @@ If you're on Mac, just make sure that your terminal is set to bash
 ![Imgur](https://i.imgur.com/jdwjKiv.png)
 
 Once accomplished, type in the command below switching out the "abc" for your account letters
--`$ ssh cs15lwi23abc@ieng6.ucsd.edu`
+- `$ ssh cs15lwi23abc@ieng6.ucsd.edu`
 
 If it is your first time connecting to the server you'll probably get this message
 
@@ -68,6 +68,8 @@ Some commands you can try are:
 An example of this will look like this
 
 ![Imgur](https://i.imgur.com/m3LEfrs.png)
+
+Just as a reminder, `cd` stands for change directory and the tilde (~) mark means parent directory. The command `ls` stands for list which will list everything in the directory that you're in, but if you specify another directory by `-(directory name)` within the directory you're currently in or you can write an absolute path after the command to list out the files or directory in whatever directory you would like. The command `cp` is used to add a path to the class path in order to find the class file needed.
 
 Once Finished with this step you can exit the terminal doing the following steps:
 * Press __Crtl + D__
