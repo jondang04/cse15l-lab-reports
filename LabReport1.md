@@ -1,4 +1,4 @@
-# CSE 15L WI 23 Lab Report 2
+# CSE 15L WI 23 Lab Report 1
 ## 1. Your CSE15L Account
 The link below redirect you to find your CSE15L account and from there, reset your password according to the instructions given.
 - Click the link [here](https://sdacs.ucsd.edu/~icc/index.php)
