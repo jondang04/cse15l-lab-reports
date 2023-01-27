@@ -4,7 +4,7 @@
 
 ## 2. Bugs
 Code:
-'''
+```
 static double averageWithoutLowest(double[] arr) {
   if(arr.length < 2) { return 0.0; }
     double lowest = arr[0];
@@ -17,7 +17,7 @@ static double averageWithoutLowest(double[] arr) {
     }
     return sum / (arr.length - 1);
 }
-'''
+```
 Test:
 ```
 private static final double DELTA = 1e-15;
