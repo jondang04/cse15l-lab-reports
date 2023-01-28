@@ -1,6 +1,6 @@
 # CSE 15L WI 23 Lab Report 2
 
-## 1.
+## 1. Server
 
 ## 2. Bugs
 Code:
@@ -37,6 +37,8 @@ A symptom from the code above would be shown when there was two numbers that wer
 instead of only exluding one of the numbers, the program would exlode both numbers. This is shown in the first test where it would result in the test 
 failing because the program would output the double 3.0 instead of 3.25.
 
+After looking further into the code, I learned any double in the array that was equals to the lowest number would be exluded, this meant that if there was two or more doubles that were equal to one another then any double within the array equal to the lowest double would be excluded from the sum. I revised the code so that the sum would be comprised of every double and would only subtract the lowest number at the end so that it would only subtract the lowest number not any number that is equal to the lowest number.
+
+## 3. Learning
 
 
-## 3.
