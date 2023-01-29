@@ -54,7 +54,7 @@ static double averageWithoutLowest(double[] arr) {
 ```
 
 This code passed all of the JUnit tests and produced the following output below
-[Image](https://imgur.com/a/zxHgJrE)
+[Image](<blockquote class="imgur-embed-pub" lang="en" data-id="a/zxHgJrE" data-context="false" ><a href="//imgur.com/a/zxHgJrE"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>)
 
 ## 3. Learning
 
