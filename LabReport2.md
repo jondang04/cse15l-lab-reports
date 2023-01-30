@@ -31,7 +31,7 @@ Second Test:
 
 ![Image](lab3Goodbye.png)
 
-The same process as what happened in the first screenshot is happening here. The handleRequest(URI url) method is being called so once again it takes the URI `http://localhost:1745/add-message?s=Goodbye` and identifies `Goodbye` as another String that would be added to holder which already holds `Hello` on a different line.
+The same process as what happened in the first screenshot is happening here. The handleRequest(URI url) method is being called so once again it takes the URI `http://localhost:1745/add-message?s=Goodbye` and identifies `Goodbye` as another String that would be added to `holder` which already holds `Hello` on a different line.
 
 ## 2. Bugs
 Original Code:
