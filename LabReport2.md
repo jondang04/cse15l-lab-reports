@@ -31,7 +31,7 @@ private static final double DELTA = 1e-15;
  }
 ```
 The test above would provide the following output:
-# insert image
+![Image](https://imgur.com/a/ozzmvnv)
 
 A symptom from the code above would be shown when there was two numbers that were equal to one another that where it was also the lowest number then 
 instead of only exluding one of the numbers, the program would exlode both numbers. This is shown in the first test where it would result in the test 
@@ -54,7 +54,7 @@ static double averageWithoutLowest(double[] arr) {
 ```
 
 This code passed all of the JUnit tests and produced the following output below
-# insert image
+![Image](https://imgur.com/a/zxHgJrE)
 
 ## 3. Learning
 
