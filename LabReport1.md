@@ -10,7 +10,7 @@ Follow these steps if you need any help in resetting your password.
   4.  Don't click check password, instead go back to the password confirmation box and click on it, then press enter.
   5.  It could take up to 15 minutes for the password reset to go through the system so be patient, but if it doesn't take that long then go ahead and move onto the next step.
   6.  Try to type in the command below and then enter in your password, as you type it in nothing will show up, but that's perfectly normal. (the "$" should not be in the command, it is jsut there to be recognized that it is a command, remember this for the next step)
-- `$ ssh ACCOUNT_NAME@ieng6.ucsd.edu`
+- ~$ ssh ACCOUNT_NAME@ieng6.ucsd.edu~
 
 ## 2. VS Code
 Download [VS Code](https://code.visualstudio.com/) for your respective operating system and install it properly according to the instructions. 
