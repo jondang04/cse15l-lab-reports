@@ -3,7 +3,7 @@
 ## 1. Server
 
 ## 2. Bugs
-Code:
+Original Code:
 ```
 static double averageWithoutLowest(double[] arr) {
   if(arr.length < 2) { return 0.0; }
@@ -18,7 +18,7 @@ static double averageWithoutLowest(double[] arr) {
     return sum / (arr.length - 1);
 }
 ```
-Test:
+Tests for Original Code:
 ```
 private static final double DELTA = 1e-15;
 
@@ -39,6 +39,7 @@ failing because the program would output the double 3.0 instead of 3.25.
 
 After looking further into the code, I learned any double in the array that was equals to the lowest number would be exluded, this meant that if there was two or more doubles that were equal to one another then any double within the array equal to the lowest double would be excluded from the sum. I revised the code so that the sum would be comprised of every double and would only subtract the lowest number at the end so that it would only subtract the lowest number not any number that is equal to the lowest number The redone code of shown down below.
 
+Redone Code
 ```
 static double averageWithoutLowest(double[] arr) {
   if(arr.length < 2) return 0.0;
@@ -53,8 +54,8 @@ static double averageWithoutLowest(double[] arr) {
 }
 ```
 
-This code passed all of the JUnit tests and produced the following output below
-![Image](lab3Pass)
+Tests for Redone Code
+![Image](lab3Pass.png)
 
 ## 3. Learning
 
