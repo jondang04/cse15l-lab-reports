@@ -4,6 +4,8 @@
 StringServer.java Code:
 
 ```
+private String holder = "";
+
 public String handleRequest(URI url) {
         if(url.getPath().contains("/add-message")) {
             String[] parameters = url.getQuery().split("=");
@@ -15,13 +17,21 @@ public String handleRequest(URI url) {
         }
     }
  ```
+Terminal:
+
+![Image](lab3Server.png)
+
 First Test:
 
 ![Image](lab3Hello.png)
 
+The main method in StringServer.java is being run when the `$ java StringServer 1745` is ran, it initalizes the server using the interfaces from the Server.java file. The handRequest(URI url) method is then called to take the URI and idenify the path to see what it should do. Since `http://localhost:1745/add-message?s=Hello` was the URI that was typed into the seach bar, it identified that the path contained the the String `/add-message` so `Hello` as a string that was to be added to the String `holder`.
+
 Second Test:
 
 ![Image](lab3Goodbye.png)
+
+The same process as what happened in the first screenshot is happening here. The handleRequest(URI url) method is being called so once again it takes the URI `http://localhost:1745/add-message?s=Goodbye` and identifies `Goodbye` as another String that would be added to holder which already holds `Hello` on a different line.
 
 ## 2. Bugs
 Original Code:
