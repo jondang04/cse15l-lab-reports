@@ -13,9 +13,11 @@ Also note that all commands will be some type of variation of `grep -r` as we wi
 When the command `grep -o` is used along with a string, it will return the files that contain the string along with the string that matches it
 
 Results for `grep -ro "Lucayans"`
+
 ![Image](Grep-O-Lucayans.png)
 
 Results for `grep -ro "Italy"`
+
 ![Image](Grep-O-Italy.png)
 
 ### N
@@ -23,9 +25,11 @@ Results for `grep -ro "Italy"`
 When the command `grep -n` is used along with a string, it will list out the line that the string is found on within the file
 
 Results of `grep -rn "Lucayans"`
+
 ![Image](Grep-N-Lucayans.png)
 
 Results of `grep -rn "Italy"`
+
 ![Image](Grep-N-Italy.png)
 
 ### C
@@ -44,11 +48,11 @@ Results of `grep -rc "Italy"`
 
 When the command `grep -i` is used alogn with a string, it will search for any string that matches regardless of capitalization.
 
-Results of `berlitz2:449$ grep -ri "LUCAYANS" | wc`
+Results of `grep -ri "LUCAYANS" | wc`
 
 ![Image](Grep-I-Lucayans.png)
 
-Results of `berlitz2:450$ grep -ri "ITALY" | wc`
+Results of `grep -ri "ITALY" | wc`
 
 ![Image](Grep-I-Italy.png)
 
