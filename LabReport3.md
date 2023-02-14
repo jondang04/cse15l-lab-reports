@@ -8,6 +8,14 @@
 
 ### C
 
+When when the command `grep -c` is used along with a string, it will list out how many times the string is found in the file.
+
+Results of `grep -rc "Lucayans"`
+![Image](Grep-C-Lucayans.png)
+
+Results of `grep -rc "Italy"`
+![Image](Grep-C-Italy.png)
+
 ### I
 
-I found these commands through a combination of using the command `man grep` in the bash terminal and though this [website](https://www.thegeekstuff.com/2009/03/15-practical-unix-grep-command-examples/).
+I found these commands through a combination of using the command `man grep` in the bash terminal, ChatGPT, and this [website](https://www.thegeekstuff.com/2009/03/15-practical-unix-grep-command-examples/).
