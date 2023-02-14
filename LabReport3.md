@@ -6,9 +6,27 @@ All commands done within this lab report are done within the working directory o
 
 `/home/linux/ieng6/cs15lwi23/cs15lwi23aib/skill-demo1-data/written_2/travel_guides/berlitz2`
 
-### L
+Also note that all commands will be some type of variation of `grep -r` as we will need to recursively look for files within the directories
 
-### R
+### O
+
+When the command `grep -o` is used along with a string, it will return the files that contain the string along with the string that matches it
+
+Results for `grep -ro "Lucayans"`
+![Image](Grep-O-Lucayans.png)
+
+Results for `grep -ro "Italy"`
+![Image](Grep-O-Italy.png)
+
+### N
+
+When the command `grep -n` is used along with a string, it will list out the line that the string is found on within the file
+
+Results of `grep -rn "Lucayans"`
+![Image](Grep-N-Lucayans.png)
+
+Results of `grep -rn "Italy"`
+![Image](Grep-N-Italy.png)
 
 ### C
 
