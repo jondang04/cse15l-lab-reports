@@ -2,6 +2,8 @@
 
 ## 1. Login to ieng6
 
+  1. Type in `ssh cs15lwi23aib@ieng6.ucsd.edu` which should automatically log in without the use of a password
+
 ## 2. Clone the Repository
 
 ## 3. Run the Tests
