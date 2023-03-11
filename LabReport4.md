@@ -25,7 +25,7 @@
   - Type in `nano L` then press `<tab>` then type in `.java`
     - This will autocomplete to ListExamples.java
   - Press `<crtl> + <W>` and type in `index1 +=`
-    - This searches for the first `index1 +=1` in the file
+    - This searches for the first `index1 +=` in the file
   - Then press `<down arrow>` 17 times and and `<right arrow>` 4 times
     - This navigates you to the error
   - Press `<backspace>` then type `2`
